@@ -1,0 +1,95 @@
+.header{
+    position: absolute;
+    width: 750px;
+    height: 139px;
+    background: #000000;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+p{
+    margin-left: 120px;
+    margin-top: 12px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 116px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.glavnai{
+    position: absolute;
+    width: 750px;
+    height: 475px;
+    background: linear-gradient(171.97deg, #E9F0F4 4.39%, #BAC7CE 93.02%);
+    margin-top:125px;
+    margin-left: -10px;
+}
+.glava{
+    margin-top: 83px;
+    margin-left: 120px;
+}
+.vk{
+    margin-left: 800px;
+    margin-top: 30px;
+}
+.text{
+    position: absolute;
+    width: 353px;
+    height: 108px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 116px;
+    color: black;
+    margin-left: 800px;
+    margin-top: 150px;
+}
+.dog1{
+    width: 275px;
+    height: 153px;
+    background: #FFA799;
+    margin-left: 725px;
+    margin-top: 378px;
+}
+.dogphoto1{
+    margin-left: 50px;
+}
+.dog2{
+    width: 275px;
+    height: 153px;
+    background: #FCFBB1;
+    margin-left: 980px;
+    margin-top: -153px;
+}
+.ah{
+    color: rgba(255, 255, 255, 0.5);
+}
+.vkdog{
+    margin-top: 100px;
+    margin-left: 450px;
+}
+.vkinfo{
+    position: absolute;
+    width: 250px;
+    height: 80px;
+    background: linear-gradient(90deg, #E0C3FC 0%, #8EC5FC 100%);
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.ip{
+    position: absolute;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+    line-height: 116px;
+    margin-top: -10px;
+    margin-left: 550px;
+    color: white;
+}
+.housed{
+    margin-top: -500px;
+}
